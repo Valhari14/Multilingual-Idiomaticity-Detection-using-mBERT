@@ -66,6 +66,17 @@ pip install torch transformers pandas scikit-learn sentencepiece datasets
 
 3. **Ablation notebooks**
    - Each configuration has a dedicated notebook in `Ablation/`.
+  
+## Extended Pipeline
+
+The complete end-to-end pipeline for this project, including data processing, model training, evaluation, and extended experiments, is available at:
+
+[Beyond Literal: Idiomaticity Detection Pipeline](https://gitup.uni-potsdam.de/marschner5/beyondliteral_idiomaticity_detection_anlp_project)
+
+This extended repository provides:
+- A fully integrated workflow beyond the baseline notebooks  
+- Additional experiments and refinements  
+- Improved organisation for reproducibility and scalability  
 
 
 ## Citation / Acknowledgements
